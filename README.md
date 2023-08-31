@@ -2,7 +2,7 @@
 
 👯 Hi, I am [ [辛毅](https://synbol.github.io/) | [Synbol](https://synbol.github.io/) ] from Department of Computer Science and Technology, Nanjing University (NJU).
 
-🔭  I’m currently working on machine learning topics including
+🔭  I’m currently working on machine learning topics including:
 
 - Test-Time Adaptation [[FS-TTA2023]()] [[MUTE2023]()]
 - Parameter-Efficient Transfer Learning [[VMT-Adapter2023]()] [[MmAP2023]()]
