@@ -9,12 +9,9 @@
 - Domain Adaptation & Domain Generalization [[SF-LFC2023](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_7)]
 - Multi-Task Learning
 
-
 📫 Feel free to drop me an email (xinyi@smail.nju.edu.cn) if you're interested.
 
 <!--
-**tim-learn/tim-learn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
@@ -25,9 +22,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=tim-learn" alt="tim-learn" /> </p>
-
-<img src="https://github-readme-stats.vercel.app/api?username=tim-learn&show_icons=true&hide=contribs,prs&cache_seconds=86400&theme=buefy" alt="logo" height="160" align="left" style="margin: 5px; margin-bottom: 20px;" />
 
 -->
