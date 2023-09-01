@@ -6,7 +6,7 @@
 
 - Test-Time Adaptation [[FS-TTA2023]()] [[MUTE2023]()]
 - Parameter-Efficient Transfer Learning [[VMT-Adapter2023]()]
-- Domain Adaptation & Domain Generalization [[SF-LFC2023](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_7)]
+- Domain Adaptation & Domain Generalization [[ST-LFC2023](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_7)]
 - Multi-Task Learning [[MmAP2023]()]
 
 📫 Feel free to drop me an email (xinyi@smail.nju.edu.cn) if you're interested.
