@@ -9,6 +9,11 @@
 - Domain Adaptation & Domain Generalization [[ST-LFC2023](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_7)]
 - Multi-Task Learning [[MmAP2023]()]
 
+🌱  I am interested in various competitions such as kaggle:
+
+- Digital China Innovation Contest, Champion（1/1538）, 100,000 RMB.
+
+
 📫 Feel free to drop me an email (xinyi@smail.nju.edu.cn) if you're interested.
 
 <!--
