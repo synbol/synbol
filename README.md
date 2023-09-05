@@ -11,7 +11,7 @@
 
 🌱  I'm interested in various competitions such as kaggle:
 
-- Digital China Innovation Contest, Champion（1 / 1538）, 100,000 RMB. [[Solution](https://github.com/synbol/Kaggle-Contests/tree/main/1.Digital%20China%20Innovation%20Contest)]
+- Digital China Innovation Contest, **Champion（1 / 1538）**, 100,000 RMB. [[Solution](https://github.com/synbol/Kaggle-Contests/tree/main/1.Digital%20China%20Innovation%20Contest)]
 
 
 📫 Feel free to drop me an email (xinyi@smail.nju.edu.cn) if you're interested.
