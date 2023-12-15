@@ -6,7 +6,6 @@
 
 - Parameter-Efficient Transfer Learning [[VMT-Adapter2024](https://arxiv.org/abs/2312.08733)][[MmAP2024](https://arxiv.org/abs/2312.08636)]
 - Domain Adaptation & Domain Generalization [[ST-LFC2023](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_7)]
-- Multi-Task Learning [[VMT-Adapter2023](https://arxiv.org/abs/2312.08733)][[MmAP2023](https://arxiv.org/abs/2312.08636)]
 - Test-Time Adaptation [[FS-TTA2023]()] [[MUTE2023]()]
 
 🌱  I'm interested in various competitions such as kaggle:
