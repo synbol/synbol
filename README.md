@@ -4,7 +4,7 @@
 
 🔭  I’m currently working on machine learning topics including:
 
-- Parameter-Efficient Transfer Learning [[VMT-Adapter 2024](https://arxiv.org/abs/2312.08733)][[MmAP 2024](https://arxiv.org/abs/2312.08636)]
+- Parameter-Efficient Transfer Learning [[VMT-Adapter 2024](https://arxiv.org/abs/2312.08733)] [[MmAP 2024](https://arxiv.org/abs/2312.08636)]
 - Domain Adaptation & Domain Generalization [[ST-LFC 2023](https://link.springer.com/chapter/10.1007/978-3-031-30678-5_7)]
 - Test-Time Adaptation [[FS-TTA 2023]()] [[MUTE 2023]()]
 
