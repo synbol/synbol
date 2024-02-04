@@ -1,6 +1,6 @@
 ### About Me
 
-👯 Hi, I am [ [辛毅](https://synbol.github.io/) | [Synbol](https://synbol.github.io/) ] from Department of Computer Science and Technology, Nanjing University (南京大学).
+👯 Hi, I am [ [辛毅](https://synbol.github.io/) | [Synbol](https://synbol.github.io/) ] from State Key Laboratory for Novel Software Technology, Nanjing University (南京大学).
 
 🔭  I’m currently working on machine learning topics including:
 
