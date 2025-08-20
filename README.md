@@ -4,8 +4,14 @@
 
 🔭  I’m currently working on machine learning topics including:
 
-- Autoregressive Image Generation
+- Visual Generation
+  - Diffusion Models [Lumina-Image 2.0](https://arxiv.org/abs/2503.21758) [Lumina-Video](https://arxiv.org/abs/2502.06782) 
+  - AutoRegressive Models [Lumina-mGPT](https://arxiv.org/abs/2408.02657) [Lumina-mGPT 2.0](https://arxiv.org/abs/2507.17801)
+  - Discrete Diffusion Models [Lumina-DiMOO]() [MaskGIL](https://arxiv.org/abs/2507.13032)
+   
 - Parameter-Efficient Fine-Tuning
+  - Benchmark [Survey](https://arxiv.org/abs/2402.02242) [Benchmark](https://proceedings.neurips.cc/paper_files/paper/2024/hash/935de67d1a033fd517cb49d192b5c008-Abstract-Datasets_and_Benchmarks_Track.html) 
+  - Algorithm [VMT-Adpater](https://ojs.aaai.org/index.php/AAAI/article/view/29541) [MMAP](https://ojs.aaai.org/index.php/AAAI/article/view/29540) [TP-PTS](https://arxiv.org/abs/2507.22872) 
 
 🌱  I'm interested in various competitions such as kaggle:
 
