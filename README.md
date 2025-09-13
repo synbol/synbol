@@ -4,10 +4,10 @@
 
 🔭  I’m currently working on machine learning topics including:
 
-- Visual Generation
-  - Diffusion Models: [ [Lumina-Image 2.0](https://arxiv.org/abs/2503.21758) ] [ [Lumina-Video](https://arxiv.org/abs/2502.06782) ] 
+- Generative Model
+  - Diffusion Models: [ [Lumina-Image 2.0](https://arxiv.org/abs/2503.21758) ] [ [Lumina-Video](https://arxiv.org/abs/2502.06782) ] [ [CFG-Chunk](https://proceedings.neurips.cc/paper_files/paper/2024/file/63e8bc7bbf1cfea36d1d1b6538aecce5-Paper-Conference.pdf) ] 
   - AutoRegressive Models: [ [Lumina-mGPT](https://arxiv.org/abs/2408.02657) ] [ [Lumina-mGPT 2.0](https://arxiv.org/abs/2507.17801) ]
-  - Discrete Diffusion Models: [ [Lumina-DiMOO]() ] [ [MaskGIL](https://arxiv.org/abs/2507.13032) ]
+  - Discrete Diffusion Models: [ [Lumina-DiMOO](http://synbol.github.io/Lumina-DiMOO) ] [ [MaskGIL](https://arxiv.org/abs/2507.13032) ]
    
 - Parameter-Efficient Fine-Tuning
   - Benchmark: [ [Survey](https://arxiv.org/abs/2402.02242) ] [ [Benchmark](https://proceedings.neurips.cc/paper_files/paper/2024/hash/935de67d1a033fd517cb49d192b5c008-Abstract-Datasets_and_Benchmarks_Track.html) ]
